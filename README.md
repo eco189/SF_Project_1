@@ -29,7 +29,7 @@
 
 Данные о курсах валют лежат в хранилище Google Диск. Название файла: ExchangeRates.csv Разделитель: sep = ',' Ссылка: https://drive.google.com/file/d/1iTqV3lR146aPoHWXGCr8Ir1PjzzZjiZW/view?usp=sharing
   
-:arrow_up:[к оглавлению](https://https://github.com/eco189/SF_Project_1/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/eco189/SF_Project_1/blob/main/README.md#Оглавление)
 
 ### Этапы работы над проектом
 - Исследование структуры данных
